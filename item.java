@@ -1,5 +1,5 @@
 package com.db.ShopJPAAplication;
-
+//kj;aljfl;ajfljalkfjal;kdfjlas
 import javax.persistence.Entity;
 import javax.persistence.Id;
 
